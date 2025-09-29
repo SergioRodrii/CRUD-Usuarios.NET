@@ -1,0 +1,7 @@
+
+#Carpetas y Ficheros excluidos:
+
+.vs/
+
+bin/
+obj/
